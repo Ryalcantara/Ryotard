@@ -1,10 +1,8 @@
 # 🙇
-<div style="display: flex; justify-content: space-between">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Irasshaimase;いらっしゃいませ;Welcome)](https://git.io/typing-svg)
 
-![image](https://i.pinimg.com/originals/e7/b8/7a/e7b87a8252bef678e1dd65e631808786.gif)
-</div>
+<img src="https://i.pinimg.com/originals/e7/b8/7a/e7b87a8252bef678e1dd65e631808786.gif" height="200" width="200"/>
 
 
 # ⚡Intro
